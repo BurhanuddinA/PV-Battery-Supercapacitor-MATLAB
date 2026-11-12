@@ -1,7 +1,11 @@
-# PV–Battery–Supercapacitor Hybrid Energy Storage System
+## PV-Battery-Supercapacitor Hybrid Energy Storage System
 
-### MATLAB | Simulink | Simscape Electrical | Energy Management
+## Project Overview
 
+![Project Overview](project-overview.png)
+
+This project focuses on PV-based hybrid energy storage
+using battery and supercapacitor systems in MATLAB/Simulink.
 A standalone photovoltaic (PV) energy system integrated with a hybrid energy storage system consisting of a battery and supercapacitor. The model demonstrates coordinated energy management, DC–DC power conversion, MPPT control and dynamic response under changing operating conditions.
 
 ## Project Overview
